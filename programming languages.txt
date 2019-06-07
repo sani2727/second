@@ -1,3 +1,9 @@
 Programming Languages I learned:
 C++
 Java
+
+Some more:
+Android
+HTML
+CSS 
+JavaScript
